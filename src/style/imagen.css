@@ -1,0 +1,6 @@
+.lindo {
+  display: grid;
+  place-items: center;
+  height: 200px;
+  width: 150px;
+}
